@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\bin\Debug\net7.0\DefaultImplementationofInterfaces.exe
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\bin\Debug\net7.0\DefaultImplementationofInterfaces.deps.json
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\bin\Debug\net7.0\DefaultImplementationofInterfaces.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\bin\Debug\net7.0\DefaultImplementationofInterfaces.dll
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\bin\Debug\net7.0\DefaultImplementationofInterfaces.pdb
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\obj\Debug\net7.0\DefaultImplementationofInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\obj\Debug\net7.0\DefaultImplementationofInterfaces.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\obj\Debug\net7.0\DefaultImplementationofInterfaces.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\obj\Debug\net7.0\DefaultImplementationofInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\obj\Debug\net7.0\DefaultImplementationofInterfaces.dll
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\obj\Debug\net7.0\refint\DefaultImplementationofInterfaces.dll
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\obj\Debug\net7.0\DefaultImplementationofInterfaces.pdb
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\obj\Debug\net7.0\DefaultImplementationofInterfaces.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_4\DefaultImplementationofInterfaces\obj\Debug\net7.0\ref\DefaultImplementationofInterfaces.dll

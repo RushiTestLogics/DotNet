@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\bin\Debug\net7.0\Project_1.exe
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\bin\Debug\net7.0\Project_1.deps.json
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\bin\Debug\net7.0\Project_1.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\bin\Debug\net7.0\Project_1.dll
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\bin\Debug\net7.0\Project_1.pdb
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\obj\Debug\net7.0\Project_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\obj\Debug\net7.0\Project_1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\obj\Debug\net7.0\Project_1.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\obj\Debug\net7.0\Project_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\obj\Debug\net7.0\Project_1.dll
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\obj\Debug\net7.0\refint\Project_1.dll
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\obj\Debug\net7.0\Project_1.pdb
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\obj\Debug\net7.0\Project_1.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_1\Project_1\obj\Debug\net7.0\ref\Project_1.dll

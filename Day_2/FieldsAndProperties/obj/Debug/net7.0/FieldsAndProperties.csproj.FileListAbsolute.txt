@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\bin\Debug\net7.0\FieldsAndProperties.exe
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\bin\Debug\net7.0\FieldsAndProperties.deps.json
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\bin\Debug\net7.0\FieldsAndProperties.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\bin\Debug\net7.0\FieldsAndProperties.dll
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\bin\Debug\net7.0\FieldsAndProperties.pdb
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.dll
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\obj\Debug\net7.0\refint\FieldsAndProperties.dll
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.pdb
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_2\FieldsAndProperties\obj\Debug\net7.0\ref\FieldsAndProperties.dll

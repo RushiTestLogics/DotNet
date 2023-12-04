@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\bin\Debug\net7.0\Employee_Collection.exe
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\bin\Debug\net7.0\Employee_Collection.deps.json
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\bin\Debug\net7.0\Employee_Collection.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\bin\Debug\net7.0\Employee_Collection.dll
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\bin\Debug\net7.0\Employee_Collection.pdb
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\obj\Debug\net7.0\Employee_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\obj\Debug\net7.0\Employee_Collection.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\obj\Debug\net7.0\Employee_Collection.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\obj\Debug\net7.0\Employee_Collection.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\obj\Debug\net7.0\Employee_Collection.dll
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\obj\Debug\net7.0\refint\Employee_Collection.dll
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\obj\Debug\net7.0\Employee_Collection.pdb
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\obj\Debug\net7.0\Employee_Collection.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\GenericsExample\Employee_Collection\obj\Debug\net7.0\ref\Employee_Collection.dll

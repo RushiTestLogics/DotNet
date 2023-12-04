@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\bin\Debug\net7.0\Employee_Array.exe
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\bin\Debug\net7.0\Employee_Array.deps.json
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\bin\Debug\net7.0\Employee_Array.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\bin\Debug\net7.0\Employee_Array.dll
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\bin\Debug\net7.0\Employee_Array.pdb
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\obj\Debug\net7.0\Employee_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\obj\Debug\net7.0\Employee_Array.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\obj\Debug\net7.0\Employee_Array.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\obj\Debug\net7.0\Employee_Array.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\obj\Debug\net7.0\Employee_Array.dll
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\obj\Debug\net7.0\refint\Employee_Array.dll
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\obj\Debug\net7.0\Employee_Array.pdb
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\obj\Debug\net7.0\Employee_Array.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_5\Employee_Array\obj\Debug\net7.0\ref\Employee_Array.dll

@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\bin\Debug\net7.0\Student_ToDo.exe
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\bin\Debug\net7.0\Student_ToDo.deps.json
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\bin\Debug\net7.0\Student_ToDo.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\bin\Debug\net7.0\Student_ToDo.dll
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\bin\Debug\net7.0\Student_ToDo.pdb
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\obj\Debug\net7.0\Student_ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\obj\Debug\net7.0\Student_ToDo.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\obj\Debug\net7.0\Student_ToDo.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\obj\Debug\net7.0\Student_ToDo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\obj\Debug\net7.0\Student_ToDo.dll
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\obj\Debug\net7.0\refint\Student_ToDo.dll
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\obj\Debug\net7.0\Student_ToDo.pdb
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\obj\Debug\net7.0\Student_ToDo.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_2\Student_ToDo\obj\Debug\net7.0\ref\Student_ToDo.dll

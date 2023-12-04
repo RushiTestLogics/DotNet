@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\bin\Debug\net7.0\Student_Array.exe
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\bin\Debug\net7.0\Student_Array.deps.json
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\bin\Debug\net7.0\Student_Array.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\bin\Debug\net7.0\Student_Array.dll
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\bin\Debug\net7.0\Student_Array.pdb
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\obj\Debug\net7.0\Student_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\obj\Debug\net7.0\Student_Array.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\obj\Debug\net7.0\Student_Array.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\obj\Debug\net7.0\Student_Array.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\obj\Debug\net7.0\Student_Array.dll
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\obj\Debug\net7.0\refint\Student_Array.dll
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\obj\Debug\net7.0\Student_Array.pdb
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\obj\Debug\net7.0\Student_Array.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_5\Student_Array\obj\Debug\net7.0\ref\Student_Array.dll

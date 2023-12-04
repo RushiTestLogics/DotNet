@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\bin\Debug\net7.0\RefAndValues2.exe
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\bin\Debug\net7.0\RefAndValues2.deps.json
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\bin\Debug\net7.0\RefAndValues2.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\bin\Debug\net7.0\RefAndValues2.dll
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\bin\Debug\net7.0\RefAndValues2.pdb
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\obj\Debug\net7.0\RefAndValues2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\obj\Debug\net7.0\RefAndValues2.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\obj\Debug\net7.0\RefAndValues2.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\obj\Debug\net7.0\RefAndValues2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\obj\Debug\net7.0\RefAndValues2.dll
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\obj\Debug\net7.0\refint\RefAndValues2.dll
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\obj\Debug\net7.0\RefAndValues2.pdb
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\obj\Debug\net7.0\RefAndValues2.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_5\RefAndValues2\obj\Debug\net7.0\ref\RefAndValues2.dll

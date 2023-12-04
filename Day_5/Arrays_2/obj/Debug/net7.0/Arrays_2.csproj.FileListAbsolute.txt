@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\bin\Debug\net7.0\Arrays_2.exe
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\bin\Debug\net7.0\Arrays_2.deps.json
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\bin\Debug\net7.0\Arrays_2.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\bin\Debug\net7.0\Arrays_2.dll
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\bin\Debug\net7.0\Arrays_2.pdb
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\obj\Debug\net7.0\Arrays_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\obj\Debug\net7.0\Arrays_2.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\obj\Debug\net7.0\Arrays_2.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\obj\Debug\net7.0\Arrays_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\obj\Debug\net7.0\Arrays_2.dll
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\obj\Debug\net7.0\refint\Arrays_2.dll
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\obj\Debug\net7.0\Arrays_2.pdb
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\obj\Debug\net7.0\Arrays_2.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_5\Arrays_2\obj\Debug\net7.0\ref\Arrays_2.dll

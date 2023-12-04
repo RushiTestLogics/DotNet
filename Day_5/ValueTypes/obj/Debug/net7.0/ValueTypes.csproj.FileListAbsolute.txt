@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\bin\Debug\net7.0\ValueTypes.exe
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\bin\Debug\net7.0\ValueTypes.deps.json
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\bin\Debug\net7.0\ValueTypes.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\bin\Debug\net7.0\ValueTypes.dll
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\bin\Debug\net7.0\ValueTypes.pdb
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\obj\Debug\net7.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\obj\Debug\net7.0\ValueTypes.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\obj\Debug\net7.0\ValueTypes.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\obj\Debug\net7.0\ValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\obj\Debug\net7.0\ValueTypes.dll
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\obj\Debug\net7.0\refint\ValueTypes.dll
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\obj\Debug\net7.0\ValueTypes.pdb
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\obj\Debug\net7.0\ValueTypes.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_5\ValueTypes\obj\Debug\net7.0\ref\ValueTypes.dll

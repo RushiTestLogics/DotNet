@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\bin\Debug\net7.0\ToDo_Employee_Abstract.exe
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\bin\Debug\net7.0\ToDo_Employee_Abstract.deps.json
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\bin\Debug\net7.0\ToDo_Employee_Abstract.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\bin\Debug\net7.0\ToDo_Employee_Abstract.dll
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\bin\Debug\net7.0\ToDo_Employee_Abstract.pdb
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\obj\Debug\net7.0\ToDo_Employee_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\obj\Debug\net7.0\ToDo_Employee_Abstract.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\obj\Debug\net7.0\ToDo_Employee_Abstract.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\obj\Debug\net7.0\ToDo_Employee_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\obj\Debug\net7.0\ToDo_Employee_Abstract.dll
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\obj\Debug\net7.0\refint\ToDo_Employee_Abstract.dll
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\obj\Debug\net7.0\ToDo_Employee_Abstract.pdb
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\obj\Debug\net7.0\ToDo_Employee_Abstract.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_4\ToDo_Employee_Abstract\obj\Debug\net7.0\ref\ToDo_Employee_Abstract.dll

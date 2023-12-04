@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_2\Functions\bin\Debug\net7.0\Functions.exe
+C:\Users\HP\Documents\DotNet\Day_2\Functions\bin\Debug\net7.0\Functions.deps.json
+C:\Users\HP\Documents\DotNet\Day_2\Functions\bin\Debug\net7.0\Functions.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_2\Functions\bin\Debug\net7.0\Functions.dll
+C:\Users\HP\Documents\DotNet\Day_2\Functions\bin\Debug\net7.0\Functions.pdb
+C:\Users\HP\Documents\DotNet\Day_2\Functions\obj\Debug\net7.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_2\Functions\obj\Debug\net7.0\Functions.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_2\Functions\obj\Debug\net7.0\Functions.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_2\Functions\obj\Debug\net7.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_2\Functions\obj\Debug\net7.0\Functions.dll
+C:\Users\HP\Documents\DotNet\Day_2\Functions\obj\Debug\net7.0\refint\Functions.dll
+C:\Users\HP\Documents\DotNet\Day_2\Functions\obj\Debug\net7.0\Functions.pdb
+C:\Users\HP\Documents\DotNet\Day_2\Functions\obj\Debug\net7.0\Functions.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_2\Functions\obj\Debug\net7.0\ref\Functions.dll

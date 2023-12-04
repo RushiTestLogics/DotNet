@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\bin\Debug\net7.0\CollectionsExamples.exe
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\bin\Debug\net7.0\CollectionsExamples.deps.json
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\bin\Debug\net7.0\CollectionsExamples.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\bin\Debug\net7.0\CollectionsExamples.dll
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\bin\Debug\net7.0\CollectionsExamples.pdb
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\obj\Debug\net7.0\CollectionsExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\obj\Debug\net7.0\CollectionsExamples.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\obj\Debug\net7.0\CollectionsExamples.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\obj\Debug\net7.0\CollectionsExamples.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\obj\Debug\net7.0\CollectionsExamples.dll
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\obj\Debug\net7.0\refint\CollectionsExamples.dll
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\obj\Debug\net7.0\CollectionsExamples.pdb
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\obj\Debug\net7.0\CollectionsExamples.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\GenericsExample\CollectionsExamples\obj\Debug\net7.0\ref\CollectionsExamples.dll

@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\bin\Debug\net7.0\Threadingexamples.exe
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\bin\Debug\net7.0\Threadingexamples.deps.json
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\bin\Debug\net7.0\Threadingexamples.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\bin\Debug\net7.0\Threadingexamples.dll
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\bin\Debug\net7.0\Threadingexamples.pdb
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\obj\Debug\net7.0\Threadingexamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\obj\Debug\net7.0\Threadingexamples.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\obj\Debug\net7.0\Threadingexamples.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\obj\Debug\net7.0\Threadingexamples.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\obj\Debug\net7.0\Threadingexamples.dll
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\obj\Debug\net7.0\refint\Threadingexamples.dll
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\obj\Debug\net7.0\Threadingexamples.pdb
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\obj\Debug\net7.0\Threadingexamples.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_10\Threadingexamples\obj\Debug\net7.0\ref\Threadingexamples.dll

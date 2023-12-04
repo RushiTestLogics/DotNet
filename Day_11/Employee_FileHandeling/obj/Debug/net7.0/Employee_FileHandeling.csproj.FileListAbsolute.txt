@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\bin\Debug\net7.0\Employee_FileHandeling.exe
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\bin\Debug\net7.0\Employee_FileHandeling.deps.json
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\bin\Debug\net7.0\Employee_FileHandeling.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\bin\Debug\net7.0\Employee_FileHandeling.dll
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\bin\Debug\net7.0\Employee_FileHandeling.pdb
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\obj\Debug\net7.0\Employee_FileHandeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\obj\Debug\net7.0\Employee_FileHandeling.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\obj\Debug\net7.0\Employee_FileHandeling.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\obj\Debug\net7.0\Employee_FileHandeling.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\obj\Debug\net7.0\Employee_FileHandeling.dll
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\obj\Debug\net7.0\refint\Employee_FileHandeling.dll
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\obj\Debug\net7.0\Employee_FileHandeling.pdb
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\obj\Debug\net7.0\Employee_FileHandeling.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_11\Employee_FileHandeling\obj\Debug\net7.0\ref\Employee_FileHandeling.dll
